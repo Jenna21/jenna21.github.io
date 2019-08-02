@@ -1,0 +1,42 @@
+body {
+  background-color: #7FFFD4;
+  font-family: italic; serif;
+  padding: 20px;
+  margin-top: 100px;
+}
+
+.zebra { /*this is a class, you can use it as many times as you want */
+    background-colr: CornflowerBlue;
+    height: 100px;
+    width: 100vh;
+    padding: 20px;
+}
+
+#aboutme {/* t6his is an id, you can only use it once */
+  background-color: blue;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+.color {
+  color: green;
+  background-color: PowderBlue;
+  padding: 20px;
+}
+img{
+   width: 250px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+ ul{
+   text-align: center;
+   list-style-type: none;
+ }
+ li{
+   font-size: 25px;
+   font-style: italic; Times
+ }
